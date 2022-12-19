@@ -1,22 +1,11 @@
 {
-    "owners": [
-        1763665005,
-        1149300506,
-        1229260373
-    ],
-    "bot_token": "5251353747:AAF5LXEZXJECMuPdeVneGSw8TKn0WNVRyKk",
+    "owners": [],
+    "bot_token": "",
     "db_url": "mongodb://localhost:27017",
     "db_name": "kinobot",
     "show": null,
-    "channels": {
-        "https://t.me/+QnkZrrdC3Bw2OGQ6": -1001346566281,
-        "https://t.me/+1gXlu8Wg4JdkMjhi": -1001675954699,
-        "https://t.me/+Sh0udNgcvAiq1Q7W": -1001243426420
-    },
-    "bots": [
-        "https://t.me/PLAN_PITANIYA_BOT",
-        "https://t.me/ya_tebya_slil_bot"
-    ],
+    "channels": {"channel_link": 123},
+    "bots": [],
     "texts": {
         "markup": "🇷🇺 Русский",
         "enter_mailing": "Отправьте сообщение рассылки:",
